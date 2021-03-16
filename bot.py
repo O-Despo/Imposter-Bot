@@ -3,7 +3,7 @@ import random
 import discord
 from discord.ext import commands
 from dotenv import load_dotenv
-
+#adding to git repo for ex
 load_dotenv()
 TOKEN = str(os.getenv('TOKEN'))
 
